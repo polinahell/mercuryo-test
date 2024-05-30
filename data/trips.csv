@@ -1,0 +1,5 @@
+trip_id,vendor_id,pickup_datetime,dropoff_datetime,store_and_fwd_flag,rate_code_id,pickup_longitude,pickup_latitude,dropoff_longitude,dropoff_latitude,passenger_count,trip_distance,fare_amount,extra,mta_tax,tip_amount,tolls_amount,ehail_fee,improvement_surcharge,total_amount,payment_type,trip_type
+1,CMT,2015-01-01 00:15:00,2015-01-01 00:25:00,N,1,-73.978165,40.757977,-73.989998,40.751171,1,1.5,12.5,0.5,0.5,2.5,0.0,0.3,16.3,CRD,1
+2,VTS,2015-01-01 01:05:00,2015-01-01 01:25:00,N,1,-73.993896,40.750562,-74.004724,40.739154,2,2.0,15.0,0.5,0.5,3.0,0.0,0.3,19.3,CSH,1
+3,CMT,2015-01-02 14:15:00,2015-01-02 14:35:00,N,1,-73.981250,40.753826,-73.977182,40.761432,1,2.0,10.0,0.5,0.5,1.0,0.0,0.3,12.3,CRD,1
+4,VTS,2015-01-02 15:20:00,2015-01-02 15:40:00,N,1,-73.992365,40.751205,-74.005081,40.743274,3,3.0,18.0,0.5,0.5,4.0,0.0,0.3,23.3,CSH,1
