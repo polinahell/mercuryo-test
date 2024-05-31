@@ -31,7 +31,7 @@ Before running the script, ensure the PostgreSQL database credentials and connec
 # Running the Script
 Place your CSV data file in the appropriate directory into data folder.
 
-Place your SQL query in a file [ file.](query.sql)
+Place your SQL query in a query.sql [ file.](query.sql)
 
 ## Execution
 The script by navigating to the script's directory and running:
